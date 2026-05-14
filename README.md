@@ -2,14 +2,13 @@
   Olá tudo bem?
 </h1>
 
-<p>Oi, eu sou o Anthony, tenho 19 anos e sou um jovem apaixonado por tecnologia e programação. Desde 2020, venho mergulhando no mundo do desenvolvimento, criando bugs e aprendendo com eles. :)</p>
+<p>Oi, eu sou o Anthony, tenho 20 anos e sou um jovem apaixonado por tecnologia e programação. Desde 2020, venho mergulhando no mundo do desenvolvimento, criando bugs e aprendendo com eles. :)</p>
 
 ---
 
 <h2 align="left">🧪 Sobre Mim</h2>
 
 <table>
-<tr><td><img src="icons/bug.png" height="24" /></td><td>Criando bugs desde 2022</td></tr>
 <tr><td><img src="icons/estrelas.png" height="24" /></td><td>Atualmente estudando Fullstack e Cybersegurança</td></tr>
 <tr><td><img src="icons/heart.png" height="24" /></td><td>Objetivo: Me tornar desenvolvedor profissional e especialista em segurança</td></tr>
 <tr><td><img src="icons/monitor.png" height="24" /></td><td>Curiosidade: Passo mais tempo no terminal do que nas redes sociais</td></tr>
